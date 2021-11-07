@@ -3,3 +3,5 @@ The project contains how my teammates and I build a machine learning model to pr
 ## Files and Descriptions
 1. _2021CaseCompetition_Yichao_Liu_20211010.pdf_: A complete summary of data manipulation, modeling process, and business insights we gain from the dataset.
 2. _Code.ipynb_: The Python code of the classification model.
+### Results
+The model achieves an AUC of 0.674, which ranked top 5% among all competition teams.
